@@ -1,0 +1,16 @@
+.mybtn{
+    width: 100px;
+    height: 50px;
+    background-color: tomato;
+    border: 1px solid tomato;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+.mybtn:hover{
+    font-size: 16px;
+}
+
+
+
